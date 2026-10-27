@@ -23,7 +23,7 @@ Input, output, cached input, batch, cache write and long-context prices per mill
 from each provider's official pricing page, with every change dated. Published by
 3AM Marketer at https://3ammarketer.com/data/model-pricing, where the same data is shown as a table and chart.
 
-Updated 2026-10-26: 863 rows, 465 current prices.
+Updated 2026-10-27: 878 rows, 467 current prices.
 
 ## Files
 
@@ -70,7 +70,7 @@ CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Credit: 3AM Marketer, 
 
 ## Citation
 
-3AM Marketer. LLM API Pricing Timeline. https://3ammarketer.com/data/model-pricing. Accessed 2026-10-26. Licensed CC BY 4.0.
+3AM Marketer. LLM API Pricing Timeline. https://3ammarketer.com/data/model-pricing. Accessed 2026-10-27. Licensed CC BY 4.0.
 
 ## Contact
 
